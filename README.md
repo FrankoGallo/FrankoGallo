@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FrankoGallo
+- 👀 I’m interested in learning coding and programming
+- 🌱 I’m currently learning cs50 and 100Daysofcode 
+- 📫 How to reach me : IG@the_handsome_frank
